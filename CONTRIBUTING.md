@@ -165,7 +165,7 @@ $> ./gradlew clean build test
 ### Issues
 
 Anyone from the community is welcome (and encouraged!) to raise issues via 
-[GitHub Issues](LINK_HERE)  ___***FIX LINK AND REMOVE THIS NOTICE***___.
+[GitHub Issues](https://github.com/TBD54566975/tbd-project-template/issues).
 
 ### Discussions
 
@@ -175,9 +175,7 @@ We advocate an asynchronous, written debate model - so write up your thoughts an
 
 ### Continuous Integration
 
-Build and Test cycles are run on every commit to every branch on [CircleCI](LINK_HERE).
-
- ___***FIX LINK ABOVE AND REMOVE THIS NOTICE***___
+Build and Test cycles are run on every commit to every branch on [CircleCI](https://circleci.com/).
 
 ## Contribution
 
